@@ -45,7 +45,7 @@ public class game extends JFrame  {
 	
 	game(final int k,int r,final int c, int system){
 		
-		
+		//i did itttt
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setLayout(new BorderLayout());
 		frame.setSize(1000, 1000);
